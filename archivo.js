@@ -16,3 +16,7 @@ let longitud = frutas.length
 console.log(longitud)
 
 console.log(frutas[frutas.length-1])
+
+
+const hola = "hola"
+
